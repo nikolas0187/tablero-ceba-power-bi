@@ -7,6 +7,13 @@ Datos de muestra.
 ## Tablero
 <img src="imagenes/tablero-ceba.png" alt="Tablero de ceba" width="900">
 
+## Reporte semanal (lo que recibe el cliente)
+El tablero alimenta un reporte de una página, pensado para enviarse por
+WhatsApp: cómo van los animales, cuánto cuesta cada kilo y qué necesita
+atención esta semana. Las alertas se generan solas con DAX.
+
+<img src="imagenes/reporte-semanal.png" alt="Reporte semanal" width="450">
+
 ## Modelo de datos
 Modelo en estrella con calendario único, 10 tablas y medidas DAX
 organizadas por carpetas.
